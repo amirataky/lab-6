@@ -8,7 +8,7 @@
 ## Facilitator: Kumanan
 ## Scribe: Amir
 ## Contributers: Ronen, Sharon
-**mini discussions**
+# **mini discussions**
 1. selecting the Best css styles from the prepaired formats from websites.
 2. Add folders for sets of notes
 3. Make the UI easy to use, and ituative for users
