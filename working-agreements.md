@@ -10,6 +10,7 @@
 ## Contributers: Ronen, Sharon
 **mini discussions**
 1. selecting the Best css styles from the prepaired formats from websites.
+2. Add folders for sets of notes
 
 
 4. listing all of our issues on to the wiki for better organization for ourselves and users.
