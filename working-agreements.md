@@ -10,3 +10,5 @@
 ## Contributers: Ronen, Sharon
 **5 mini discussions**
 1. selecting the Best css styles from the prepaired formats from websites.
+
+3. Make the UI easy to use, and ituative for users
