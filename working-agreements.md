@@ -8,3 +8,5 @@
 ## Facilitator: Kumanan
 ## Scribe: Amir
 ## Contributers: Ronen, Sharon
+**5 mini discussions**
+1. selecting the Best css styles from the prepaired formats from websites.
